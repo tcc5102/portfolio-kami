@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: Blocipedia
+thumbnail-path: "img/blocipedia.png"
+short-description: Build a production quality SaaS app that allows users to create their own wikis.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/blocipedia.png)
 
 ## Explanation
 

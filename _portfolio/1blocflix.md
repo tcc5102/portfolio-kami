@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: Bloccit
+thumbnail-path: "img/blocflix.png"
+short-description: Bloccit is a Reddit replica for sharing and favoriting posts.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocflix.png)
 
 ## Explanation
 

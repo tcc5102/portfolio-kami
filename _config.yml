@@ -6,12 +6,13 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Tyler Cooper # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "A personal portfolio for Rails projects" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>New and Ambitious Developer</h1>
-     <p>Specializing in Rails, JavaScript, AngularJS, and FORTRAN.</p>
+     <h2>Tyler Cooper</h2>
+     <h1>Full-Stack Web Developer</h1>
+     <p>Ruby on Rails, JavaScript, and AngularJS.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a>
@@ -27,7 +28,7 @@ theme_settings:
   github: "tcc5102"
   google_plus:
   instagram:
-  linkedin:  "https://www.linkedin.com/in/tyler-cooper-07322a107"
+  linkedin:  "https://www.linkedin.com/in/tyler-cooper91"
   pinterest:
   reddit:
   soundcloud:
