@@ -1,12 +1,13 @@
 .site-header {
   @extend %padding-small;
   background: $brand-color;
-  border-top:5px solid $header-desc-background-color;
+  border-top:5px solid #0070BB;
   display: inline-block;
   width: 100%;
 
   a {
-    color: $header-link-color;
+    color: #d6952c;
+    text-shadow: 1px 1px 1px black;
   }
 
   .avatar {
@@ -37,6 +38,7 @@
       display: inline;
       float: left;
       margin-left: 1.4em;
+      text-shadow: 1px 1px 2px black;
     }
     @media (max-width: 1100px) {
       ul {

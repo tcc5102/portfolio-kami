@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h2>Tyler Cooper</h2>
-     <h1>Full-Stack Web Developer</h1>
+     <h6>For Hire Full-Time or Freelance</h6>
      <p>Ruby on Rails, JavaScript, and AngularJS.</p>
   header_text_feature_image:
   footer_text: >
